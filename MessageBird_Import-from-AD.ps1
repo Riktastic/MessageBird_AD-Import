@@ -115,8 +115,8 @@ While ($user -lt $users.Count)  {
 	$Contact_LastName = $users.Get($user).Surname
 
 #	$Contact_MobilePhone = "+31612345678"
-#	$Contact_FirstName = "Rik"
-#	$Contact_LastName = "Heijmann"
+#	$Contact_FirstName = "Riktastic"
+#	$Contact_LastName = ""
 
 	#Verwijder het + karakter en sla de variabele gewijzigd op.
 	$Contact_MobilePhone = $Contact_MobilePhone -replace '[+]',''
