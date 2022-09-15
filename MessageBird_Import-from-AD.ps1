@@ -2,7 +2,7 @@
 
 #######################################################
 # Synchronisatie tool voor AD Naar MessageBird v1.0   #
-# - Door: Rik Heijmann & Bas Gubbels                  #
+# - Door: https://Github.com/Riktastic                #
 # - Voor: Extern-IT (Extern-IT.nl), The Netherlands   #
 # - Datum: 18-5-2018                                  #
 #######################################################
